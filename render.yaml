@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: cv-tailoring-service
+    runtime: python
+    plan: starter
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn src.api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.0"
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: HOST
+        value: "0.0.0.0"
+      - key: PORT
+        value: "8000"
+      - key: DEBUG
+        value: "false"
+      - key: MAX_FILE_SIZE
+        value: "10485760"
+      - key: LOG_LEVEL
+        value: "INFO"
+    healthCheckPath: /health
+    autoDeploy: true 

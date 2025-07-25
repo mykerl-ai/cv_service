@@ -1,0 +1,60 @@
+Senior Software Engineer - Full Stack Development
+
+Company: TechInnovate Solutions
+Location: San Francisco, CA (Hybrid)
+Employment Type: Full-time
+Experience Level: Senior (5+ years)
+
+About Us:
+TechInnovate Solutions is a rapidly growing technology company focused on building innovative SaaS solutions for enterprise clients. We're looking for a Senior Software Engineer to join our dynamic team and help us scale our platform to serve millions of users worldwide.
+
+Job Description:
+We are seeking a talented Senior Software Engineer to join our engineering team. You will be responsible for designing, developing, and maintaining scalable web applications using modern technologies. You'll work closely with product managers, designers, and other engineers to deliver high-quality software solutions.
+
+Key Responsibilities:
+- Design and implement scalable microservices architecture
+- Develop and maintain full-stack web applications using React, Node.js, and Python
+- Collaborate with cross-functional teams to define technical requirements
+- Mentor junior developers and conduct code reviews
+- Optimize application performance and ensure high availability
+- Implement CI/CD pipelines and DevOps best practices
+- Participate in agile development processes and sprint planning
+- Troubleshoot and resolve complex technical issues
+- Contribute to technical architecture decisions
+
+Required Skills:
+- 5+ years of experience in software development
+- Strong proficiency in Python, JavaScript, and TypeScript
+- Experience with React, Node.js, and modern frontend frameworks
+- Knowledge of microservices architecture and RESTful APIs
+- Experience with cloud platforms (AWS, Azure, or GCP)
+- Proficiency in database design and SQL (PostgreSQL, MySQL)
+- Experience with Docker and containerization
+- Strong understanding of Git and version control
+- Knowledge of CI/CD pipelines and DevOps practices
+- Experience with agile development methodologies
+
+Preferred Skills:
+- Experience with GraphQL and API design
+- Knowledge of machine learning and data science
+- Experience with Kubernetes and orchestration
+- Familiarity with monitoring and logging tools
+- Experience with serverless architecture
+- Knowledge of security best practices
+- Experience with performance optimization
+- Background in SaaS or enterprise software
+
+Education:
+- Bachelor's degree in Computer Science, Engineering, or related field
+- Equivalent experience will be considered
+
+Benefits:
+- Competitive salary and equity package
+- Comprehensive health, dental, and vision insurance
+- Flexible work arrangements and remote work options
+- Professional development and learning opportunities
+- Modern office space with great amenities
+- Team events and social activities
+- 401(k) matching and other financial benefits
+
+We are looking for someone who is passionate about technology, enjoys solving complex problems, and wants to make a significant impact in a fast-growing company. If you're excited about building scalable software solutions and working with cutting-edge technologies, we'd love to hear from you! 

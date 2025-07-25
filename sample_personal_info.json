@@ -1,0 +1,112 @@
+{
+  "full_name": "John Doe",
+  "email": "john.doe@email.com",
+  "phone": "+1 (555) 123-4567",
+  "location": "San Francisco, CA",
+  "linkedin": "linkedin.com/in/johndoe",
+  "github": "github.com/johndoe",
+  "portfolio": "johndoe.dev",
+  "summary": "Experienced software engineer with 5+ years of experience in full-stack development, specializing in Python, JavaScript, and cloud technologies. Proven track record of delivering scalable web applications and leading development teams.",
+  "technical_skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Django",
+    "PostgreSQL",
+    "AWS",
+    "Docker",
+    "Git",
+    "REST APIs",
+    "GraphQL",
+    "TypeScript"
+  ],
+  "soft_skills": [
+    "Leadership",
+    "Problem Solving",
+    "Team Collaboration",
+    "Communication",
+    "Project Management",
+    "Agile Development"
+  ],
+  "experience": [
+    {
+      "company": "TechCorp Inc.",
+      "position": "Senior Software Engineer",
+      "start_date": "January 2022",
+      "end_date": "Present",
+      "description": [
+        "Lead development of microservices architecture serving 1M+ users",
+        "Mentor junior developers and conduct code reviews",
+        "Collaborate with product managers to define technical requirements"
+      ],
+      "achievements": [
+        "Reduced API response time by 40% through optimization",
+        "Implemented CI/CD pipeline reducing deployment time by 60%",
+        "Led team of 5 developers in successful product launch"
+      ]
+    },
+    {
+      "company": "StartupXYZ",
+      "position": "Full Stack Developer",
+      "start_date": "March 2020",
+      "end_date": "December 2021",
+      "description": [
+        "Developed and maintained web applications using React and Node.js",
+        "Designed and implemented database schemas",
+        "Worked closely with UX designers to implement user interfaces"
+      ],
+      "achievements": [
+        "Built customer portal serving 50,000+ users",
+        "Improved application performance by 30%",
+        "Reduced bug reports by 50% through improved testing"
+      ]
+    },
+    {
+      "company": "Digital Solutions Ltd.",
+      "position": "Junior Developer",
+      "start_date": "June 2019",
+      "end_date": "February 2020",
+      "description": [
+        "Developed features for e-commerce platform",
+        "Fixed bugs and implemented user feedback",
+        "Participated in agile development process"
+      ],
+      "achievements": [
+        "Implemented payment integration system",
+        "Reduced page load times by 25%",
+        "Received recognition for outstanding performance"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Technology",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "May 2019",
+      "gpa": "3.8/4.0"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Developer Associate",
+    "Google Cloud Professional Developer",
+    "Certified Scrum Master (CSM)"
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Full-stack e-commerce solution with payment processing and inventory management",
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+      "url": "https://github.com/johndoe/ecommerce-platform",
+      "impact": "Processed $100K+ in transactions"
+    },
+    {
+      "name": "Task Management App",
+      "description": "Collaborative task management application with real-time updates",
+      "technologies": ["Vue.js", "Firebase", "Vuex"],
+      "url": "https://github.com/johndoe/task-manager",
+      "impact": "Used by 500+ team members"
+    }
+  ]
+} 
